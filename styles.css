@@ -1,0 +1,42 @@
+body{
+    background-color: lightgoldenrodyellow
+
+}
+
+#title{
+    color: darkgoldenrod;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.image-container{
+    text-align: center;
+    height: auto;
+}
+
+.aligned-image{
+    width: auto;
+    height: auto;
+}
+
+.recipe-list {
+    text-align: center; 
+    display: block; 
+    padding: 10px;
+
+}
+  
+.recipe-titles {
+    color: brown;
+    font: italic sans-serif;
+    background-color: burlywood;
+    padding: 10px 15px;
+    border-radius: 20px;
+    border-color: yellow orange orangered;
+    margin: 0
+}
+
+
+  
+    
